@@ -3,8 +3,7 @@
    --> As a information security enthusiast I was learning active directory exploitation and was working on ACLs 
        and registry modifications, so I thought about automating these attack vectors so that I can understand them
        better.
-   --> As a rookie active directory learner I took some inspiration from the Legend Mr.Nikhil Mittal's (RACE toolkit). He is hailed
-       as an active directory exploitation master. All thanks to Mr.Nikhil for inspiring us.
+   
 
 #>
 
